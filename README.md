@@ -13,6 +13,8 @@
 - **2018ASC Challenge** Review: Deep Learning for Atrial
 Segmentation From Late
 Gadolinium-Enhanced MRIs [[paper]](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00086/full)
+
+- 2020 **Domain Adaptation** for Medical Image Analysis: A Survey [[paper]](https://arxiv.org/pdf/2102.09508.pdf)
 ## Multi-tasks Learning
 - [Left Atrial and Scar Quantification & Segmentation Challenge 2022.4.1](https://zmiclab.github.io/projects/lascarqs22/index.html) \
 **Three Important tasks: LA cavity segmentation, LA wall segmentation, LA scar quantification** 
@@ -37,8 +39,6 @@ information. [[paper]](https://arxiv.org/pdf/2008.04729.pdf) [[pytorch]](https:/
 
 
 ## Domain (Adaptation)
-
-- 2020 **Domain Adaptation for Medical Image Analysis: A Survey** [[paper]](https://arxiv.org/pdf/2102.09508.pdf)
 
 - 2020 Different Hosptial: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs [[paper]](https://arxiv.org/pdf/2106.08727.pdf)
 

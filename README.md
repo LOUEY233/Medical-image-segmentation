@@ -6,11 +6,11 @@
 - Inverse problem 
 ---
 ## Review Paper and Cardic Knowledge
-- Automatic Whole Heart Segmentation Based on Image Registration [[paper]](https://zmiclab.github.io/zxh/0/files/zxhPhdThesistwoside.pdf) 
+- 2010 Automatic Whole Heart Segmentation Based on Image Registration [[paper]](https://zmiclab.github.io/zxh/0/files/zxhPhdThesistwoside.pdf) 
 
-- Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review [[paper]](https://arxiv.org/pdf/2106.09862.pdf)
+- 2022 Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review [[paper]](https://arxiv.org/pdf/2106.09862.pdf)
 
-- **2018ASC Challenge** Review: Deep Learning for Atrial
+- 2018 **ASC Challenge** Review: Deep Learning for Atrial
 Segmentation From Late
 Gadolinium-Enhanced MRIs [[paper]](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00086/full)
 

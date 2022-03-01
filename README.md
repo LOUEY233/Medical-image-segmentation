@@ -1,4 +1,4 @@
-# Medical Image Segmentation for Cardic :star:
+# :star: Medical Image Segmentation for Cardic 
 
 ## **Three topics**
 - Multi-task learning
@@ -15,7 +15,7 @@ Segmentation From Late
 Gadolinium-Enhanced MRIs [[paper]](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00086/full)
 
 - 2020 **Domain Adaptation** for Medical Image Analysis: A Survey [[paper]](https://arxiv.org/pdf/2102.09508.pdf)
-## Multi-tasks Learning
+## :cyclone: Multi-tasks Learning
 - [Left Atrial and Scar Quantification & Segmentation Challenge 2022.4.1](https://zmiclab.github.io/projects/lascarqs22/index.html) \
 **Three Important tasks: LA cavity segmentation, LA wall segmentation, LA scar quantification** 
     - Review paper for multi-tasks learning
@@ -38,7 +38,7 @@ information. [[paper]](https://arxiv.org/pdf/2008.04729.pdf) [[pytorch]](https:/
         - Evaluation on an open-source CT and MRI image database [[paper]](https://reader.elsevier.com/reader/sd/pii/S1361841518306431?token=91B9CE7059239E81C2E1DD52E8F348F7890B1F7C104BBDEB38BA8E97DC3C29A2E1BBCA7F09B874BCD29E97314558D232&originRegion=us-east-1&originCreation=20220228145449)
 
 
-## Domain (Adaptation)
+## :snowflake: Domain (Adaptation)
 
 - 2020 Different Hosptial: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs [[paper]](https://arxiv.org/pdf/2106.08727.pdf)
 
@@ -60,7 +60,7 @@ Feature Alignment for Medical Image Segmentation [[paper]](https://arxiv.org/pdf
 
  - Causality-inspired Single-source Domain Generalization for Medical Image Segmentation [[paper]](https://arxiv.org/pdf/2111.12525.pdf)
 
- ## Inverse problem
+ ## :foggy: Inverse problem
  - 2020 A deep learning approach for magnetization transfer contrast MR fingerprinting and chemical exchange saturation transfer imaging [[paper]](https://www.sciencedirect.com/science/article/pii/S1053811920306510)
  ## Network
  - U-Net [[paper]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[pytorch]](https://github.com/milesial/Pytorch-UNet)

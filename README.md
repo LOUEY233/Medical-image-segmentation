@@ -1,4 +1,4 @@
-# Medical Image Segmentation for Cardic
+# Medical Image Segmentation for Cardic :star:
 
 ## **Three topics**
 - Multi-task learning
@@ -61,15 +61,18 @@ Feature Alignment for Medical Image Segmentation [[paper]](https://arxiv.org/pdf
  - Causality-inspired Single-source Domain Generalization for Medical Image Segmentation [[paper]](https://arxiv.org/pdf/2111.12525.pdf)
 
  ## Inverse problem
+ - 2020 A deep learning approach for magnetization transfer contrast MR fingerprinting and chemical exchange saturation transfer imaging [[paper]](https://www.sciencedirect.com/science/article/pii/S1053811920306510)
  ## Network
- - U-Net
- - U-Net++
- - Double-U-Net
- - nnFormer
- - nnUNet
- - SwinUNet
- - R2U-Net
- - ResUNet++
+ - U-Net [[paper]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[pytorch]](https://github.com/milesial/Pytorch-UNet)
+ - U-Net++ [[paper]](https://arxiv.org/abs/1807.10165) [[pytorch]](https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets)
+ - Double-U-Net [[paper]](https://arxiv.org/pdf/2006.04868.pdf) [[pytorch]](https://github.com/AdamMayor2018/DoubleUnet-pytorch-implementation)
+ - nnFormer [[paper]](https://arxiv.org/pdf/2109.03201.pdf) [[pytorch]](https://github.com/282857341/nnFormer)
+ - nnUNet [[paper]](https://arxiv.org/pdf/1809.10486.pdf) [[pytorch]](https://github.com/MIC-DKFZ/nnUNet)
+ - SwinUNet [[paper]](https://arxiv.org/pdf/2105.05537.pdf) [[pytorch]](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)
+ - R2U-Net [[paper]](https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf) [[pytorch]](https://github.com/LeeJunHyun/Image_Segmentation)
+ - ResUNet++ [[paper]](https://arxiv.org/pdf/1911.07067.pdf) [[pytorch]](https://github.com/rishikksh20/ResUnet)
  - MSRF-Net: A Multi-Scale Residual Fusion
-Network for Biomedical Image Segmentation [[paper]](https://arxiv.org/pdf/2105.07451.pdf)
+Network for Biomedical Image Segmentation [[paper]](https://arxiv.org/pdf/2105.07451.pdf) [[pytorch]](https://github.com/amlarraz/MSRF-Net_PyTorch)
+- Structure-aware Meta-fusion for Image Super-resolution [[paper]](https://dl.acm.org/doi/pdf/10.1145/3477553)
+- Structure-aware feature fusion for unsupervised domain adaptation [[paper]](http://www.csyangliu.com/Material/AAAI_2020.pdf)
     

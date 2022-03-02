@@ -69,6 +69,7 @@ Feature Alignment for Medical Image Segmentation [[paper]](https://arxiv.org/pdf
  - nnFormer [[paper]](https://arxiv.org/pdf/2109.03201.pdf) [[pytorch]](https://github.com/282857341/nnFormer)
  - nnUNet [[paper]](https://arxiv.org/pdf/1809.10486.pdf) [[pytorch]](https://github.com/MIC-DKFZ/nnUNet)
  - SwinUNet [[paper]](https://arxiv.org/pdf/2105.05537.pdf) [[pytorch]](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)
+ - TranUNet [[paper]](https://arxiv.org/pdf/2102.04306.pdf) [[pytorch]](https://github.com/Beckschen/TransUNet)
  - R2U-Net [[paper]](https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf) [[pytorch]](https://github.com/LeeJunHyun/Image_Segmentation)
  - ResUNet++ [[paper]](https://arxiv.org/pdf/1911.07067.pdf) [[pytorch]](https://github.com/rishikksh20/ResUnet)
  - MSRF-Net: A Multi-Scale Residual Fusion
